@@ -1,0 +1,10 @@
+
+{"level":"info","message":"Request Url: / - Request Body: {}","service":"request-logging","timestamp":"2024-02-07T10:50:04.557Z"}
+{"level":"info","message":"Request Url: / - Request Body: {}","service":"request-logging","timestamp":"2024-02-07T10:53:20.101Z"}
+{"level":"info","message":"Request Url: / - Request Body: {}","service":"request-logging","timestamp":"2024-02-07T10:54:00.751Z"}
+{"level":"info","message":"Request Url: / - Request Body: {}","service":"request-logging","timestamp":"2024-02-07T10:58:16.639Z"}
+{"level":"info","message":"Request Url: / - Request Body: {}","service":"request-logging","timestamp":"2024-02-07T11:04:15.384Z"}
+{"level":"info","message":"Request Url: / - Request Body: {}","service":"request-logging","timestamp":"2024-02-07T11:05:23.189Z"}
+{"level":"info","message":"Request Url: / - Request Body: {}","service":"request-logging","timestamp":"2024-02-07T11:07:13.320Z"}
+{"level":"info","message":"Request Url: / - Request Body: {}","service":"request-logging","timestamp":"2024-02-07T11:12:09.622Z"}
+{"level":"info","message":"Request Url: / - Request Body: {}","service":"request-logging","timestamp":"2024-02-07T11:29:04.433Z"}
